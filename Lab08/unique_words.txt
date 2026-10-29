@@ -1,0 +1,1 @@
+Number of words that appear only once: 504

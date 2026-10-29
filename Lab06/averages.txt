@@ -1,0 +1,5 @@
+Overall Average: 8.63
+Row 1 Average: 2.50
+Row 2 Average: 6.50
+Row 3 Average: 10.93
+Row 4 Average: 14.60
